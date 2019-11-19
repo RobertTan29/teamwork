@@ -1,3 +1,6 @@
 aaa=1
 def abc():
   return aaa
+
+a=abc()
+print(a)
